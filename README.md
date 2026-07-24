@@ -25,6 +25,25 @@ I am a Full-Stack Engineer with 2+ years of professional experience building sca
 - **Competitive Coding:** Solved **900+ DSA problems** | **LeetCode 1600+** | **CodeChef 1500+**[cite: 2]
 ---
 
+### 📌 Featured Projects
+
+#### 🤖 [AI Portfolio Assistant (Next.js)](https://github.com/lazyshivam/Latest-Portfolio-Next.js-/tree/master)
+> SSR-driven personal portfolio featuring an OpenAI-powered conversational assistant to answer recruiter queries in real-time[cite: 2].
+`Next.js` `OpenAI API` `TypeScript` `SSR` `Email.JS`[cite: 2]
+
+#### 💬 [Talk02Me - Real-Time Chat Platform](https://github.com/lazyshivam/talk2me_frontend-backend)
+> Full-stack messaging app featuring presence tracking and bi-directional, low-latency event synchronization[cite: 2].
+`React.js` `Node.js` `Socket.IO` `MongoDB` `Express.js`[cite: 2]
+
+#### ⛓️ [Blockchain Crowdfunding Platform](https://github.com/lazyshivam/Collaborative-finance-Blockchain-App)
+> Decentralized Ethereum application with smart contracts, MetaMask wallet integration, and Web3 SDKs[cite: 2].
+`Solidity` `Ethereum` `MetaMask` `thirdweb` `ethers.js`[cite: 2]
+
+#### 📈 [Cryptoverse Tracker](https://github.com/lazyshivam/project-2-cryptoverse/tree/master)
+> Live crypto analytics platform consuming public market APIs for real-time price & trend visualizations[cite: 2].
+`React.js` `Redux Toolkit` `Chart.js` `REST APIs`[cite: 2]
+
+---
 ### 📬 Connect With Me
 - **Email:** shivamgoswami.ss.pp@gmail.com
 - **LinkedIn:** [linkedin.com/in/shivam-goswami-ba1165214](https://www.linkedin.com/in/shivam-goswami-ba1165214/)
